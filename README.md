@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I use github to share code (and in some cases data) from published research papers (mostly on NLP). 
-If you run into issues or have questions regarding the code or data (or papers) feel free to send an email!
+If you run into issues or have questions regarding the code or data (or papers in general) feel free to send an email!
 
 Cheers,
 Tuur
