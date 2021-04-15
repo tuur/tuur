@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 I use github to share code (and in some cases data) from published research papers. 
 If you run into issues or have questions regarding the code or data (or papers in general) feel free to send an email!
